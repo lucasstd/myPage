@@ -1,2 +1,2 @@
 # myPage
-A sample CV website for fun
+A sample resume website for fun
