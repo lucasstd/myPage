@@ -1,0 +1,8 @@
+a {
+  color: $primary;
+  &:hover,
+  &:focus,
+  &:active {
+    color: darken($primary, 25%);
+  }
+}
